@@ -21,15 +21,15 @@ body {
 
 .wrapper.tri {
     background-color: #E5E7EB;
-    padding: 4%;
+    padding: 50px;
 }
 
 .wrapper.ctyri {
-    padding: 4%;
+    padding: 50px;
 }
 
 .wrapper.pet {
-    padding: 2%;
+    padding: 25px;
     background-color: #1F2937;
     color: #F9FAF8;
 
@@ -109,14 +109,14 @@ button {
 }
 
 .top-img img {
-    width: 495px;
-    height: 230px;
+    width: 100%;
+    height: auto;
     border-radius: 15px;
 }
 
  h1 {
      text-align: center;
-     padding-top: 4%;
+     padding-top: 50px;
      color: #1F2937;
      font-size: 36px;
      font-weight: bolder;
@@ -128,7 +128,7 @@ button {
     align-items: center;
     max-width: 990px;
     width: 75%;
-    margin: 4%;
+    margin: 50px;
     gap: 5%;
 }
 
@@ -142,7 +142,7 @@ button {
     justify-content: space-between;
     width: 60%;
     background-color: #3882f6;
-    padding: 5%;
+    padding: 50px;
     border-radius: 15px;
     color: #F9FAF8;
 }
@@ -151,7 +151,7 @@ button {
 .list img {
     width: 150px;
     height: 150px;
-    border-radius: 5%;
+    border-radius: 10px;
 }
 
 .citat {
